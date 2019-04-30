@@ -1,2 +1,2 @@
-# webserver_reader
+# java_classes.webserver_reader
 trying to read files from a webserver (samba) and manipulate them
